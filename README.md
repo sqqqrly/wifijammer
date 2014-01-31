@@ -6,8 +6,12 @@ Continuously jam all wifi clients and access points within range. The effectiven
 
 Requires: airmon-ng, python 2.7, python-scapy, a wireless card capable of injection
 
-# apt-get install aircrack-ng
-# apt-get install scapy
+``` shell 
+apt-get install aircrack-ng
+```
+``` shell
+apt-get install scapy
+```
 
 Usage
 -----
